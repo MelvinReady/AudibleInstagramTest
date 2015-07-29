@@ -1,0 +1,2 @@
+pod 'InstagramKit', '3.1.1'
+pod 'AFNetworking', '2.5.4'
